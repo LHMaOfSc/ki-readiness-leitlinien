@@ -1,6 +1,6 @@
 # KI-Readiness-Leitlinien
 
-Master-Prompt  zur Erstellung eines theoriebasierten Fragebogens zur KI-Readiness von Mitarbeitenden. 
+Master-Prompt zur Erstellung eines theoriebasierten Fragebogens zur KI-Readiness von Mitarbeitenden. 
 
 Finaler Prompt: prompts/Masterprompt_v5_Vorlage.pdf (mit Platzhaltern), prompts/Masterprompt_v5.pdf (ausgefüllt für KI-Readiness)
 
